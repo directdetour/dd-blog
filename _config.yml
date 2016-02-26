@@ -98,10 +98,10 @@ reddit-share: True
 google-plus-share: True
 tumblr-share: True
 pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pocket-share: False
+vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "directdetour"
 
 syntax-highlight: True
 
@@ -125,7 +125,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "ymatty@gmail.com"
 
 ##################
 # Social Buttons #
@@ -136,12 +136,12 @@ social:
     url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+#  - title: "github"
+#    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+#  - title: "rss"
+#   url: "/feed.xml"
 
 ############
 # 404 page #
