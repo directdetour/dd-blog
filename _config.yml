@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: '"Failure is a detour not a dead end street." -Zig Ziglar'
-  - text: '"See any detour as an opportunity to experience new things." -H. Jackson Brown, Jr.'
+  - text: "&quot;Failure is a detour not a dead end street.&quot; -Zig Ziglar"
+  - text: "&quot;See any detour as an opportunity to experience new things.&quot; -H. Jackson Brown, Jr."
 
 me-img: "/img/detourconflict.jpg"
 
