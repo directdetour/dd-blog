@@ -3,6 +3,8 @@ title: Using forestry.io
 date: '2016-07-08 19:08:00'
 layout: post
 ---
+![]({{ site.baseurl }}/forestryio/images/kt9ad910.jpeg)
+
 Hey, just wanting to see if this works. Here's some Heisenberg Ipsum.
 
 You asked me if we were in the meth business or the money business. Neither, I’m in the empire business. I was under the impression that you had this under control. Well, that's what this is - problem solving. Skyler this is a simple division of labor - I bring in the money, you launder the money. This is what you wanted. 
